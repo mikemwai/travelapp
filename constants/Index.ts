@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/', key: 'how_hilink_work', label: 'How Hilink Works?' },
     { href: '/', key: 'services', label: 'Services' },
     { href: '/', key: 'pricing ', label: 'Pricing ' },
     { href: '/', key: 'contact_us', label: 'Contact Us' },
@@ -32,7 +32,7 @@ export const NAV_LINKS = [
         "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Technology using augmented reality',
       icon: '/tech.svg',
       variant: 'green',
       description:
@@ -69,8 +69,8 @@ export const NAV_LINKS = [
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Phone Number', value: '+254 712 345 678' },
+      { label: 'Email', value: 'hilink@akinthil.com' },
     ],
   };
   
