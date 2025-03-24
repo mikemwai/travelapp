@@ -1,5 +1,25 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Installation
+
+- Clone the project on your local machine:
+
+```sh
+git clone https://github.com/mikemwai/travelapp.git
+```
+
+- Install next:
+
+```sh
+npm install next
+```
+
+- Install TypeScript and Type Declarations:
+
+```sh
+npm install --save-dev typescript @types/react @types/node
+```
+
 ## Getting Started
 
 First, run the development server:
